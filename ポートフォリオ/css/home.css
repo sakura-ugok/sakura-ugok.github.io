@@ -1,0 +1,233 @@
+@import url('https://fonts.googleapis.com/css?family=Sawarabi+Mincho');
+
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+
+html {
+    scroll-behavior: smooth;
+}
+
+header {
+    width: 65%;
+    margin: 70px auto;
+    font-family: 'Sawarabi Mincho', sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+    float: left;
+    font-size: 200%;
+
+}
+
+figure {
+    padding-top: 80px;
+
+}
+
+.blog {
+    float: right;
+    padding-left: 28px;
+}
+
+.twitter {
+    float: right;
+}
+
+.menue {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 110%;
+    margin: 0 auto;
+    display: flex;
+    padding-right: 14%;
+    float: right;
+}
+
+.element {
+    float: none;
+    text-align: right;
+    padding-right: 90px;
+}
+
+.element-1 {
+    float: none;
+    text-align: right;
+    padding-right: 90px;
+}
+
+.clearfix {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+body {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    margin: 0 auto;
+}
+
+.top-image {
+    width: 100%;
+    height: 90%;
+    margin: 0 auto;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.top-image img {
+    width: 100%;
+    height: 100%;
+}
+
+.about {
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.title {
+    font-size: 210%;
+    text-align: center;
+}
+
+.tori {
+    padding-left: 28%;
+    float: left;
+}
+
+.item {
+    font-size: 150%;
+    float: right;
+    padding-right: 40%;
+}
+
+.con {
+    float: right;
+    padding-right: 30%;
+    padding-bottom: 15px;
+    padding-top: 20px;
+}
+
+.con-1 {
+    padding-left: 20%;
+
+}
+
+.con-2 {
+    padding-left: 13%;
+
+}
+
+.con-4 {
+    padding-left: 8%;
+}
+
+.works {
+    margin: 0 auto;
+    padding-top: 200px;
+}
+
+.works p {
+    font-size: 210%;
+    text-align: center;
+}
+
+.main-item {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.bubble {
+    text-align: center;
+    font-size: 150%;
+}
+
+
+.item1 {
+    float: left;
+    padding-left: 150px;
+    padding-bottom: 40px;
+}
+
+.item2 {
+    float: right;
+    padding-right: 150px;
+    padding-bottom: 40px;
+}
+
+.pixcel:hover {
+    opacity: 0.6;
+    transition-duration: 0.3s;
+}
+
+.contact {
+
+    width: 80%;
+    margin: 0 auto;
+}
+
+.contact p {
+    font-size: 210%;
+    text-align: center;
+}
+
+.bubble2 {
+    text-align: left;
+    padding-left: 300px;
+    padding-bottom: 20px;
+    font-size: 150%;
+}
+
+.item3 {
+    float: right;
+    padding-right: 300px;
+}
+
+.button {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 25px;
+    margin-bottom: 40px;
+    margin-left: 48%;
+    padding: 2px 20px;
+    background-color: #797979;
+    color: white;
+    border: solid 0px;
+}
+.button:hover{
+  background: #999999;  
+}
+.button:active{
+  background: black;
+}
+
+footer {
+
+    margin: 0 auto;
+    padding-bottom: 60px;
+    padding-top: 20px;
+    border-top: 3px solid #797979;
+
+}
+
+.menue2 {
+    width: 80%;
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 110%;
+    margin: 0 auto;
+    display: flex;
+    float: left;
+}
+
+.element2 {
+    padding-left: 35px;
+    text-align: left;
+}
+
+.element2-1 {
+    padding-left: 280px
+}
+
+a {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    color: #65676b;
+    text-decoration: none;
+}

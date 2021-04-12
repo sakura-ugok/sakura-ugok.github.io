@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=Sawarabi+Mincho');
+
+@import url('https://fonts.googleapis.com/css?family=Sacramento');
+
+header {
+    width: 65%;
+    margin: 70px auto;
+    font-family: 'Sawarabi Mincho', sans-serif;
+
+}
+
+h1 {
+    font-size: 50px;
+    float: left;
+    font-size: 200%;
+    color: #65676b;
+
+}
+
+figure {
+    padding-top: 80px;
+
+}
+
+.blog {
+    float: right;
+    padding-left: 28px;
+}
+
+.twitter {
+    float: right;
+}
+
+.menue {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 110%;
+    margin: 0 auto;
+    padding-bottom:20px;
+    display: flex;
+    padding-right: 14%;
+    float: right;
+}
+
+.element {
+    float: none;
+    text-align: right;
+    padding-right: 90px;
+}
+
+.element-1 {
+    float: none;
+    text-align: right;
+    padding-right: 90px;
+}
+
+.clearfix {
+    content: "";
+    display: block;
+    clear: both;
+}
+
+body {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    margin: 0 auto;
+}
+
+a {
+    font-family: 'Sawarabi Mincho', sans-serif;
+    color: #65676b;
+    text-decoration: none;
+}
+body {
+    width: 100%;
+}
+
+.top-image{
+    padding-left:10px;
+}
+.rei{
+     padding-left:40px;
+    width:32%;
+    float: left; 
+}
+
+.rei2{
+   
+    
+     width:30%;   
+    padding-left:40px;
+}
+
+.tou2{
+   
+    
+     width:30%;
+    float: left;
+}
+
+.text {
+    padding-top:150px;
+    text-align: center;
+    padding-bottom:30px;
+}
+
+footer {
+
+    margin: 0 auto;
+    padding-bottom: 40px;
+    padding-top: 20px;
+    border-top: 3px solid #797979;
+
+}
+
+.menue2 {
+    padding-left: 100px;
+    font-family: 'Sawarabi Mincho', sans-serif;
+    font-size: 180%;
+
+}
+
+.element2 {
+    text-align: left;
+}
